@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### (Robotic) Software Engineer
+#### Computer Vision - ML/AI Engineer
 - Pointcloud enthusiast
 - Computer Vision
 - Deep Learning
